@@ -1,0 +1,6 @@
+rembg
+pillow
+onnxruntime
+numpy
+jdatetime
+hijri-converter
